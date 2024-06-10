@@ -1,2 +1,2 @@
-# CarritoCompra
-#Carrito de la compra en Python
+# CarritoCompra 
+Carrito de la compra en Python
